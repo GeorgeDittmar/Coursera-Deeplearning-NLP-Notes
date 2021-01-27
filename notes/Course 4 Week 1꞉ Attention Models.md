@@ -1,7 +1,7 @@
 ---
 title: 'Course 4 Week 1: Attention Models'
 created: '2020-12-29T22:06:00.084Z'
-modified: '2021-01-18T06:01:51.347Z'
+modified: '2021-01-27T05:10:13.569Z'
 ---
 
 # Course 4 Week 1: Attention Models
@@ -9,7 +9,7 @@ modified: '2021-01-18T06:01:51.347Z'
 We will go over finetuning pretrained language models and others which is more likely for many researchers to use unless you work at google.
 
 ## Seq2Seq models
-- Neural machine translation
+- Neural machine translation 
   - use encoder adn decoder to translate from english to another language
   - introduced by google in 2014. Maps variable length sequences to fixed-lenght memory
   - LSTM and GRU typically used to handle vanishing gradients
